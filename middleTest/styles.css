@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(72, 153, 242);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#myCanvas {
+    background-color: rgb(180, 180, 180);
+    margin-top: 50px; 
+    margin-bottom: 50px; 
+    display: block; 
+    width: 600px; 
+    height: 800px; 
+}
+
